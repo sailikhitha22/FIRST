@@ -1,0 +1,272 @@
+1.OPERATORS
+https://www.slideshare.net/Thenmurugeshwari/operators-in-java
+2. ACCESS MODIFIERS
+https://www.slideshare.net/HrithikShinde/access-specifiersmodifiers-in-java
+3. Git
+https://www.youtube.com/watch?time_continue=1&v=HVsySz-h9r4&feature=emb_logo	
+https://docs.oracle.com/javase/tutorial/index.html
+
+  --**INHERITNCE
+https://www.javatpoint.com/inheritance-in-javA
+
+Class: A class is a group of objects which have common properties. It is a template or blueprint from which objects are created.
+
+Sub Class/Child Class: Subclass is a class which inherits the other class. It is also called a derived class, extended class, or child class.
+
+Super Class/Parent Class: Superclass is the class from where a subclass inherits the features. It is also called a base class or a parent class.
+
+Reusability: As the name specifies, reusability is a mechanism which facilitates you to reuse the fields and methods of the existing class when you create a new class. You can use the same fields and methods already defined in the previous class.
+
+
+Inheritance represents the IS-A relationship which is also known as a parent-child relationship.
+	
+4.JVM
+https://www.youtube.com/watch?time_continue=2&v=ZBJ0u9MaKtM&feature=emb_logo	
+5.First Java Program
+https://www.youtube.com/watch?v=qQdfyb2KRko&feature=emb_logo
+6.Data types	
+https://www.youtube.com/watch?v=bqPIWlnjWbA&feature=emb_logo
+7.If Else
+https://www.youtube.com/watch?v=6Ocu3IHuBCk
+8.Loops	
+https://www.youtube.com/watch?v=6djggrlkHY8&feature=emb_logo
+9.Switch Statement
+https://www.youtube.com/watch?v=RVRPmeccFT0
+10.Operators	
+https://www.youtube.com/watch?v=Pa0lUMWmmm0	
+11.Array
+https://www.youtube.com/watch?v=_NfwcH5zKpA&feature=emb_logo	
+https://www.youtube.com/watch?v=L06uGnF4IpY	
+
+12.Classes and Objects
+https://www.youtube.com/watch?v=V-PQvKUtSY8
+	
+13.Constructor
+https://www.youtube.com/watch?v=YqBVgUh64Ks
+14. OOPS
+https://www.youtube.com/watch?v=-HafzawNlUo	
+15.Modifiers
+https://www.youtube.com/watch?time_continue=9&v=Ruy-yzj-JG8&feature=emb_logo
+16.Packages	
+https://www.youtube.com/watch?v=eEujVn-ZTLE&feature=emb_logo
+17.Encapsulation	
+https://www.youtube.com/watch?v=4VBdNbWeTZw&feature=emb_logo
+18.Abstract Classes	
+   https://www.youtube.com/watch?v=RcIsb9iFKH8&feature=emb_logo
+19.Inheritance	
+https://www.youtube.com/watch?v=_9R_in_7cT4	
+20.Polymorphism
+https://www.youtube.com/watch?v=0xw06loTm1k&feature=emb_logo	
+21.Arrays
+https://www.youtube.com/watch?v=_NfwcH5zKpA&feature=emb_logo	
+22.Strings
+https://www.youtube.com/watch?time_continue=1&v=r3DBIDyzLUI&feature=emb_logo
+23.StringBuilder, StringBuffer	
+https://www.youtube.com/watch?v=7WsU9SyS-uI&feature=emb_logo
+24.Static 	
+https://www.youtube.com/watch?v=qRCEdWQ0f4Q
+25.Non static and Static	
+https://www.youtube.com/watch?v=msXJVIecGp0
+26.Anonymous Object	
+https://www.youtube.com/watch?v=AmRjm4Cksmo	
+27.Interface
+https://www.youtube.com/watch?v=Ggjxn8Q9VuE
+28.Wrapper Classes	
+https://www.youtube.com/watch?v=XKEBjp1k8cQ	
+29.Boxing and UnBoxing
+https://www.youtube.com/watch?v=O6IkXdRVp6I	
+
+
+30.Exception Handling
+https://www.youtube.com/watch?v=8WTVLa1Xtsk&list=PLsyeobzWxl7rS9B2K1l--VDpCn41gijnV	
+
+
+31.Collections
+https://www.youtube.com/watch?v=5NOLuoG6fcQ&list=PLsyeobzWxl7oJj5BXYF088REBm-K4c_SR	
+https://www.youtube.com/watch?v=XUTJZZDZG8k&list=PLzS3AYzXBoj8XCaW6-o73-FkvZPMas41L	
+https://www.youtube.com/watch?v=mQ9uxTWZCXA&list=PLFGoYjJG_fqooGAq7UKpkXb8l4xjyEQUr	
+https://www.youtube.com/watch?v=0xrhqxTOphI	
+https://www.youtube.com/watch?v=W5gnVp1NUNU	
+
+32.IO and File Handling
+https://www.youtube.com/watch?v=kD_HqZP8MLY	
+https://www.youtube.com/watch?v=QfGVi89AV4c	
+https://www.youtube.com/watch?v=OUnDCLhkh_E&list=PLcJ7Ar5qZeeH01O-Pe7aHLQ9UXEp47_Lw	
+https://www.youtube.com/watch?v=3YRahx2ltSg	
+https://www.youtube.com/watch?v=waXvGUEjTTs	
+
+33.JDBC
+https://www.youtube.com/watch?v=y_YxwyYRJek&list=PLsyeobzWxl7rU7Jz3zDRpqB-EODzBbHOI	
+https://www.youtube.com/watch?v=8-iQDUl10vM&list=PLEAQNNR8IlB4R7NfqBY1frapYo97L6fOQ	
+https://www.youtube.com/watch?v=BOUMR85B-V0&list=PLhs1urmduZ2-yp3zID5rMEmXDETN8xvMo	
+
+34.Java 8 new features
+https://www.youtube.com/watch?v=grEKMHGYyns	
+https://www.youtube.com/watch?v=gpIUfj3KaOc&list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3	
+https://www.youtube.com/watch?v=a8jvxBbswp4&list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3&index=10	
+https://www.youtube.com/watch?v=QRwG9X9l6xI&list=PLsyeobzWxl7qbvNnJKjYbkTLn2w3eRy1Q	
+https://www.youtube.com/watch?v=4e_RsZWdiSc
+
+
+35. ABSTRACT CLASS 
+https://www.slideshare.net/HarisBinZahid/abstract-class-and-interface-49451395
+INTERFACE 
+https://www.javatpoint.com/interface-in-java#:~:text=An%20interface%20in%20Java%20is,static%20constants%20and%20abstract%20methods.&text=There%20can%20be%20only%20abstract,and%20multiple%20inheritance%20in%20Java.
+https://www.w3schools.com/java/java_interface.asp
+
+36. EXCEPTION HANDLING 
+https://www.javatpoint.com/exception-handling-in-java
+
+https://www.geeksforgeeks.org/types-of-exception-in-java-with-examples/
+
+https://www.geeksforgeeks.org/g-fact-32-user-defined-custom-exception-in-java/
+
+ArithmeticException 
+It is thrown when an exceptional condition has occurred in an arithmetic operation.
+ArrayIndexOutOfBoundsException 
+It is thrown to indicate that an array has been accessed with an illegal index. The index is either negative or greater than or equal to the size of the array.
+ClassNotFoundException 
+This Exception is raised when we try to access a class whose definition is not found
+FileNotFoundException 
+This Exception is raised when a file is not accessible or does not open.
+IOException 
+It is thrown when an input-output operation failed or interrupted
+InterruptedException 
+It is thrown when a thread is waiting, sleeping, or doing some processing, and it is interrupted.
+NoSuchFieldException 
+It is thrown when a class does not contain the field (or variable) specified
+NoSuchMethodException 
+It is thrown when accessing a method which is not found.
+NullPointerException 
+This exception is raised when referring to the members of a null object. Null represents nothing
+NumberFormatException 
+This exception is raised when a method could not convert a string into a numeric format.
+RuntimeException 
+This represents any exception which occurs during runtime.
+StringIndexOutOfBoundsException 
+It is thrown by String class methods to indicate that an index is either negative or greater than the size of the string
+
+37. STRINGS
+https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+
+https://www.journaldev.com/797/what-is-java-string-pool
+
+String charAt()
+String compareTo()
+String concat()
+String contains()
+String endsWith()
+String equals()
+equalsIgnoreCase()
+String format()
+String getBytes()
+String getChars()
+String indexOf()
+String intern()
+String isEmpty()
+String join()
+String lastIndexOf()
+String length()
+String replace()
+String replaceAll()
+String split()
+String startsWith()
+String substring()
+String toCharArray()
+String toLowerCase()
+String toUpperCase()
+String trim()
+String valueOf()
+
+38. WRAPPER CLASS
+https://www.baeldung.com/java-wrapper-classes
+THREADS
+https://www.slideshare.net/tuhinkundu007/threads-in-java-45202167
+
+https://www.slideshare.net/babu4b4u/javathread
+
+39. COLLECTIONS 
+
+
+
+
+
+
+40. QUEUE
+
+
+BlockingDeque<E>	
+A Deque that additionally supports blocking operations that wait for the deque to become non-empty when retrieving an element, and wait for space to become available in the deque when storing an element.
+BlockingQueue<E>	
+A Queue that additionally supports operations that wait for the queue to become non-empty when retrieving an element, and wait for space to become available in the queue when storing an element.
+Callable<V>	
+A task that returns a result and may throw an exception.
+CompletableFuture.AsynchronousCompletionTask	
+A marker interface identifying asynchronous tasks produced by async methods.
+CompletionService<V>	
+A service that decouples the production of new asynchronous tasks from the consumption of the results of completed tasks.
+CompletionStage<T>	
+A stage of a possibly asynchronous computation, that performs an action or computes a value when another CompletionStage completes.
+ConcurrentMap<K,V>	
+A Map providing thread safety and atomicity guarantees.
+ConcurrentNavigableMap<K,V>	
+A ConcurrentMap supporting NavigableMap operations, and recursively so for its navigable sub-maps.
+Delayed	
+A mix-in style interface for marking objects that should be acted upon after a given delay.
+Executor	
+An object that executes submitted Runnable tasks.
+ExecutorService	
+An Executor that provides methods to manage termination and methods that can produce a Future for tracking progress of one or more asynchronous tasks.
+ForkJoinPool.ForkJoinWorkerThreadFactory	
+Factory for creating new ForkJoinWorkerThreads.
+ForkJoinPool.ManagedBlocker	
+Interface for extending managed parallelism for tasks running in ForkJoinPools.
+Future<V>	
+A Future represents the result of an asynchronous computation.
+RejectedExecutionHandler	
+A handler for tasks that cannot be executed by a ThreadPoolExecutor.
+RunnableFuture<V>	
+A Future that is Runnable.
+RunnableScheduledFuture<V>	
+A ScheduledFuture that is Runnable.
+ScheduledExecutorService	
+An ExecutorService that can schedule commands to run after a given delay, or to execute periodically.
+ScheduledFuture<V>	
+A delayed result-bearing action that can be cancelled.
+ThreadFactory	
+An object that creates new threads on demand.
+TransferQueue<E>	
+A BlockingQueue in which producers may wait for consumers to receive elements.
+
+CONCURRENT PACKAGE
+https://www.javatpoint.com/java-deque-arraydeque
+
+
+
+
+Interface Summary 
+Interface	Description
+Closeable	
+A Closeable is a source or destination of data that can be closed.
+DataInput	
+The DataInput interface provides for reading bytes from a binary stream and reconstructing from them data in any of the Java primitive types.
+DataOutput	
+The DataOutput interface provides for converting data from any of the Java primitive types to a series of bytes and writing these bytes to a binary stream.
+Externalizable	
+Only the identity of the class of an Externalizable instance is written in the serialization stream and it is the responsibility of the class to save and restore the contents of its instances.
+FileFilter	
+A filter for abstract pathnames.
+FilenameFilter	
+Instances of classes that implement this interface are used to filter filenames.
+Flushable	
+A Flushable is a destination of data that can be flushed.
+ObjectInput	
+ObjectInput extends the DataInput interface to include the reading of objects.
+ObjectInputValidation	
+Callback interface to allow validation of objects within a graph.
+ObjectOutput	
+ObjectOutput extends the DataOutput interface to include writing of objects.
+ObjectStreamConstants	
+Constants written into the Object Serialization Stream.
+Serializable	
+Serializability of a class is enabled by the class implementing the java.io.Serializable interface.

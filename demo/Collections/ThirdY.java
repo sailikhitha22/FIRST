@@ -7,15 +7,13 @@ public class Third {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-ArrayList<Float> p = new ArrayList<Float>();	
+ArrayList p = new ArrayList();	
 		
 		p.add(8);
-		p.add(7);
+		p.add(7.6);
 		
 
-		
-		
-		
+	System.out.println(p);	
 		
 		
 	}
